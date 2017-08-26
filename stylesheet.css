@@ -1,0 +1,25 @@
+h2 {
+    font-family:arial;
+}
+
+form {
+    display: inline-block;
+}
+
+#button{
+    height:30px;
+  	width:100px;
+  	background-color: blue;
+  	font-family:arial;
+  	border-radius: 5px;
+  	text-align:center;
+  	margin-top:20px;
+    line-height: 30px;
+}
+
+.list {
+	  font-family: arial;
+    font-size: 20px;
+    margin-top: 30px;
+
+}
